@@ -6,6 +6,10 @@ Track loans you've given out — principal, interest, compound periods, payments
 
 Developed by [IT4Co](https://www.it4co.com).
 
+## Screenshot
+
+![Loan Tracker Dashboard](demo.png)
+
 ## Features
 
 - Multiple borrowers per loan
