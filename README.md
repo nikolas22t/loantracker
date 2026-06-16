@@ -19,7 +19,7 @@ Developed by [IT4Co](https://www.it4co.com).
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/loantracker.git
+git clone https://github.com/nikolas22t/loantracker.git
 cd loantracker
 docker compose up -d
 ```
