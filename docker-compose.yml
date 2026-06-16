@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  loan_tracker:
+    build: .
+    container_name: loan_tracker
+    ports:
+      - "8110:8110"
+    volumes:
+      - loan_data:/var/www/data
+    restart: unless-stopped
+
+volumes:
+  loan_data:
